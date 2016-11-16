@@ -1,10 +1,12 @@
+<?php require_once( 'couch/cms.php' ); ?>
+
 <!DOCTYPE HTML>
 <!--
 	Editorial by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
-<?php require_once( 'couch/cms.php' ); ?>
+
 
 <html>
 	<head>
@@ -28,7 +30,6 @@
 
 							<!-- Header -->
 								<header id="header">
-									<cms:editable name='nav' type='richtext'>
 										<ul>
 										  <li><a href="index.php">ABOUT</a></li>
 										  <li><a href="portfolio.php">PORTFOLIO</a></li>
@@ -43,7 +44,7 @@
 										<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 									</ul>							
 								</header>
-								</cms:editable>
+						
 
 							<!-- Banner -->
 							<cms:editable name='main_content' type='richtext'>
