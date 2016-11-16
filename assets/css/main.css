@@ -2132,7 +2132,7 @@
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: 0 0 1em 0;
 		font-family: "Quattrocento Sans", serif;
 	}
 
@@ -2609,12 +2609,14 @@
 			transition: transform 0.2s ease;
 		}
 
+		/*
 		a.image:hover img {
 			-moz-transform: scale(1.075);
 			-webkit-transform: scale(1.075);
 			-ms-transform: scale(1.075);
 			transform: scale(1.075);
 		}
+		*/
 
 /* List */
 
@@ -2630,7 +2632,7 @@
 
 	ul {
 		list-style: disc;
-		margin: 0 0 2em 0;
+		margin: 0 0 4em 0;
 	}
 
 		ul li {
@@ -2878,7 +2880,7 @@
 	}
 
 	table {
-		margin: 0 0 2em 0;
+		margin: 0 0 0 0;
 		width: 100%;
 	}
 
@@ -2894,14 +2896,15 @@
 
 		table td {
 			padding: 0.75em 0.75em;
+			font-family: 'Quattrocento Sans', serif;
 		}
 
 		table th {
 			color: #3d4449;
-			font-size: 0.9em;
 			font-weight: 600;
 			padding: 0 0.75em 0.75em 0.75em;
 			text-align: left;
+			font-family: 'Quattrocento Sans', serif;
 		}
 
 		table thead {
@@ -4073,6 +4076,24 @@ body {
 	margin: auto;
 }
 
+.posts {
+	width: 100%;
+	margin: auto;
+}
+
 #resume-link {
 	color: #f56a6a;
 }
+
+#portfolio-subtitle {
+	padding-bottom: 1.5em;
+}
+
+.table-caption {
+	color: #f56a6a;
+}
+
+.table-margin{
+	margin-bottom: 1em;
+}
+
