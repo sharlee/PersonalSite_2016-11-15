@@ -48,21 +48,13 @@
 							<!-- Section -->
 								<section>
 									<header class="major">
-										<h2>TF2.gg - Competitive Matchmaking</h2>	
+										<h2>Red Hat Summer '16 Internship</h2>	
 									</header>
 
 									<cms:editable name='summary' type='richtext'>
-									<p>TF2.gg was a lobby system created for competitive players of the first-person shooter game Team Fortress 2. 
-										This web app featured an ELO-based ranking system, our own hosted servers, and full Mumble integration. 
-										Players first start on the lobby homepage, where they have a choice of picking which lobby they would like to
-										join based on map choice, needed player requirements and/or the competitive level of the lobby. After picking 
-										the lobby, they are directed to a page that shows the current players and status of the lobby. They are then 
-										able to pick a class and connect directly to the game server and Mumble when the lobby is ready.
-										<br><br>
-										After three months of work, the co-developer and I held several rounds of moderated user tests where we gathered 
-										players to test the system and provide us feedback through a Google survey. After incorporating their feedback and 
-										fixing some major bugs, we then left the system live for players to use. At our peak, we had around 50 players online
-										at a time.
+										<p>For my summer internship, I was an Interaction Design Intern at <a href="https://www.redhat.com/en">Red Hat</a> on the End-to-End team, working on their <a href="https://access.redhat.com/">Customer Portal.</a>
+										 My internship consisted of redesigning all of their blog pages, profile pages, and email notifications for desktop and mobile. 
+										 I also helped with A/B testing the Search UI experience on the Customer Portal.
 									</p>
 									</cms:editable>
 
@@ -78,10 +70,10 @@
 											</thead>
 											<tbody>
 												<tr>
-													<td>Self</td>
-													<td>Fall 2013</td>
-													<td>HTML/CSS, Javascript, Photoshop</td>
-													<td>Wireframing, programming, user testing, promoting</td>
+													<td>Red Hat</td>
+													<td>Summer 2016 - present</td>
+													<td>InDesign, Sketch, Proto.io, UXPin, InVision</td>
+													<td>Interviews, competitive analysis, storyboarding, paper and digital wireframing, prototyping, user testing</td>
 												</tr>
 											</tbody>
 										</table>

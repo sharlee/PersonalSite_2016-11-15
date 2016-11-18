@@ -2111,15 +2111,15 @@
 	}
 
 		a:hover {
-			border-bottom-color: #f56a6a;
-			color: #f56a6a !important;
+			border-bottom-color: #0190bf;
+			color: #0190bf !important;
 		}
 
 		a:hover strong {
 			color: inherit;
 		}
 		li.selected a{
-			color: #f56a6a;
+			color: #0190bf;
 		}
 
 	strong, b {
@@ -2284,7 +2284,7 @@
 	}
 
 	header.major > :last-child {
-		border-bottom: solid 3px #f56a6a;
+		border-bottom: solid 3px #0190bf;
 		display: inline-block;
 		margin: 0 0 2em 0;
 		padding: 0 0em 0.2em 0;
@@ -2351,8 +2351,8 @@
 		input[type="url"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #f56a6a;
-			box-shadow: 0 0 0 1px #f56a6a;
+			border-color: #0190bf;
+			box-shadow: 0 0 0 1px #0190bf;
 		}
 
 	.select-wrapper {
@@ -2465,8 +2465,8 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #f56a6a;
-			box-shadow: 0 0 0 1px #f56a6a;
+			border-color: #0190bf;
+			box-shadow: 0 0 0 1px #0190bf;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2702,7 +2702,7 @@
 				}
 
 				ul.contact li:before {
-					color: #f56a6a;
+					color: #0190bf;
 					display: inline-block;
 					font-size: 1.5em;
 					height: 1.125em;
@@ -2826,7 +2826,7 @@
 				}
 
 					ul.pagination li > .page.active {
-						background-color: #f56a6a;
+						background-color: #0190bf;
 						color: #ffffff !important;
 					}
 
@@ -2959,8 +2959,8 @@
 		background-color: transparent;
 		border-radius: 0.375em;
 		border: 0;
-		box-shadow: inset 0 0 0 2px #f56a6a;
-		color: #f56a6a !important;
+		box-shadow: inset 0 0 0 2px #0190bf;
+		color: #0190bf !important;
 		cursor: pointer;
 		display: inline-block;
 		font-family: "Quattrocento Sans", serif;
@@ -3033,7 +3033,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #f56a6a;
+			background-color: #0190bf;
 			box-shadow: none;
 			color: #ffffff !important;
 		}
@@ -3153,7 +3153,7 @@
 			}
 
 				.features article .icon:before {
-					color: #f56a6a;
+					color: #0190bf;
 					font-size: 2.75rem;
 					position: relative;
 					top: 0.05em;
@@ -3798,7 +3798,7 @@
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		border-bottom: solid 5px #f56a6a;
+		border-bottom: solid 5px #0190bf;
 		padding: 6em 0 1em 0;
 		position: relative;
 	}
@@ -3993,7 +3993,7 @@
 		}
 
 			#menu ul a:hover, #menu ul span:hover {
-				color: #f56a6a;
+				color: #0190bf;
 			}
 
 			#menu ul a.opener, #menu ul span.opener {
@@ -4027,7 +4027,7 @@
 				}
 
 				#menu ul a.opener:hover:before, #menu ul span.opener:hover:before {
-					color: #f56a6a;
+					color: #0190bf;
 				}
 
 				#menu ul a.opener.active + ul, #menu ul span.opener.active + ul {
@@ -4079,21 +4079,19 @@ body {
 .posts {
 	width: 100%;
 	margin: auto;
+	text-align: center;
 }
 
 #resume-link {
-	color: #f56a6a;
+	color: #0190bf;
 }
 
 #portfolio-subtitle {
 	padding-bottom: 1.5em;
 }
 
-.table-caption {
-	color: #f56a6a;
+.caption {
+	color: #0190bf;
 }
 
-.table-margin{
-	margin-bottom: 1em;
-}
 

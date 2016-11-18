@@ -51,7 +51,7 @@
 								<section id="banner">
 									<div class="content">
 										<header>
-											<h1>SHARON LEE</h1>
+											<h1>Sharon Lee - UX Designer & Musician</h1>
 											<p>WHO AM I?</p>
 										</header>
 										<p>I’m a User Experience Designer who is passionate about creating digital interfaces that will excite and motivate users to use them. While my favorite part of UX is wireframing and rapid prototyping, I’m often participating in a variety of other UX activities: user research, usability testing, competitive analysis… and some non-UX activites too: graphic design, front end development, and video editing. Let me help you create an innovative yet practical user experience!
